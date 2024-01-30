@@ -1,1 +1,1 @@
-This is news application build in reactjs
+This is news20 application build in reactjs base on functional base components and it is use easy
